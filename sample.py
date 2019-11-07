@@ -1,6 +1,3 @@
-# could have used constructor but a little bug re-opens the firefox window with each login iteration
-
-
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import time
